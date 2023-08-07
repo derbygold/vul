@@ -18,4 +18,4 @@ swiftui
 swift5
 swift-xcode-templates
 4k-soft
-example-screen# vul
+example-screen
